@@ -1,6 +1,21 @@
-body{
+body {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: bisque;
-    
+    color: gray   
+}
+
+#cont {
+    width: 90%;
+    padding: 1em;
+    text-align: center;
+    text-align: justify;
+    border: 2px solid salmon;
+    background-color: azure; 
+    align-items: center;    
+    margin: 0 auto;
+}
+
+#post{
+    font-size: 25px;
 }
