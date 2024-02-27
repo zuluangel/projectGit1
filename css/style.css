@@ -1,40 +1,39 @@
 body {
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: bisque;
-    color: gray;
-    margin: 0;
-    padding: 0;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: bisque;
+  color: gray;
+  margin: 0;
+  padding: 0;
 }
 
 #header {
-    background-color: darkslateblue;
-    box-shadow: 0px 2px 50px 0px black; 
-    color: whitesmoke;
-    font-weight: bold;
-    margin: 0;
-    padding: 0.5em;
-    
+  background-color: darkslateblue;
+  box-shadow: 0px 2px 50px 0px black;
+  color: whitesmoke;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
 }
 
 #cont {
-    width: 90%;
-    padding: 0;
-    text-align: center;
-    text-align: justify;
-    border: 2px solid salmon;
-    background-color: azure; 
-    align-items: center;    
-    margin: 0 auto;
+  width: 90%;
+  padding: 0;
+  text-align: center;
+  text-align: justify;
+  border: 2px solid salmon;
+  background-color: azure;
+  align-items: center;
+  margin: 0 auto;
 }
 
-#post{
-    font-size: 25px;
-    padding:  1em;
+#post {
+  font-size: 25px;
+  padding: 1em;
 }
 
 #tag {
-    padding: 0, 0, 0, 1em;
-    font-weight: normal;
-    font-size: 0.8em;
+  padding: 0, 0, 0, 1em;
+  font-weight: normal;
+  font-size: 0.8em;
 }
